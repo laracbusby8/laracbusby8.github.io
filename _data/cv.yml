@@ -4,7 +4,6 @@ cv:
   email: laracbusby (at) berkeley.edu
   location: Berkeley, CA, USA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
     - network: X
@@ -40,7 +39,7 @@ cv:
         studyType: B.A.
         start_date: 2014
         end_date: 2017
-        score: "1st"
+        score: 1st
         highlights:
           - Description 1.
           - Description 2.
