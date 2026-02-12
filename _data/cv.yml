@@ -13,13 +13,6 @@ cv:
     - network: LinkedIn
       username: example
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
   sections:
     Education:
       - institution: University of Cambridge
@@ -45,24 +38,24 @@ cv:
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Department of Molecular and Cell Biology
+        position: EMBO Postdoctoral Research Fellow
+        location: University of California, Berkeley
+        start_date: 2023
+        end_date: 2026
+        summary: ""
         highlights:
-          - Relativity
-          - Description 2.
+          - ""
+          - ""
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Department of Genetics
+        position: Postdoctoral Researcher
+        location: University of Cambridge, Cambridge, UK
+        start_date: 04.2023
+        end_date: 07.2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - ""
+          - ""
 
       - company: Kaiser Wilhelm Institute for Physics
         position: Director
