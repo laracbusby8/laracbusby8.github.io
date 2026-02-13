@@ -486,6 +486,13 @@ ninja.data = [{
           window.open("https://bsky.app/profile/laracbusby.bsky.social", "_blank");
         },
       },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/Larabeeee", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
