@@ -8,7 +8,4 @@ email: laracbusby@berkeley.edu # your email address
 scholar_userid: LgY148AAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: /assets/img/bluesky-white-logo-png_seeklogo-619745.png # can be png, svg, jpg
-  title: Bsky
-  url: https://bsky.app/profile/laracbusby.bsky.social
+bluesky_url: https://bsky.app/profile/laracbusby.bsky.social # can be any name here other than the ones already defined in the jekyll-socials plugin
