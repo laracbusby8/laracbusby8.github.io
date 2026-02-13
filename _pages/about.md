@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a developmental biologist with a particular interest in how cells decide when and where to undergo cell state changes. I'm currently an EMBO Postdoctoral Fellow at UC Berkeley in <a href="https://www.martiklab.org">Megan Martik's</a> group.
+I am a developmental biologist. I'm broadly interested in how cells integrate intrinsic and extrinsic cues to coordinate cell state transitions in space and time. I'm currently an EMBO Postdoctoral Fellow at UC Berkeley in <a href="https://www.martiklab.org">Megan Martik's</a> group.
 
 
