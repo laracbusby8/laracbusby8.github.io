@@ -38,9 +38,9 @@ cv:
           - Description 2.
 
     Experience:
-      - company: Department of Molecular and Cell Biology
+      - company: Dept. of Molecular and Cell Biology, University of California, Berkeley
         position: EMBO Postdoctoral Research Fellow
-        location: University of California, Berkeley
+        location: Berkeley, CA
         start_date: 2023
         end_date: 2026
         summary: ""
@@ -48,43 +48,21 @@ cv:
           - ""
           - ""
 
-      - company: Department of Genetics
+      - company: Department of Genetics, University of Cambridge
         position: Postdoctoral Researcher
-        location: University of Cambridge, Cambridge, UK
-        start_date: 04.2023
-        end_date: 07.2023
+        location: Cambridge, UK
+        start_date: 2023
+        end_date: 2023
         highlights:
           - ""
           - ""
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Dept. of BMS, University of Sheffield
+        position: Research Assistant
+        location: Sheffield, UK
+        start_date: 2017
+        end_date: 2018
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
 
     Awards:
       - title: Nobel Prize in Physics
