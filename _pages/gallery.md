@@ -46,7 +46,7 @@ nav_order: 4
 .gallery-item img,
 .gallery-item video {
     width: 100%;
-    height: 200px;
+    height: 300px;
     object-fit: cover;
     border-radius: 8px;
 }
