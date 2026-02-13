@@ -51,4 +51,18 @@ nav_order: 4
     border-radius: 8px;
 }
 
+.description {
+    margin-top: 10px;
+    color: black;               /* always black text */
+}
+
+.description h3 {
+    margin: 0 0 5px 0;
+}
+
+.description p {
+    margin: 0;
+    font-size: 14px;
+}
+
 </style>
