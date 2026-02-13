@@ -13,7 +13,7 @@ nav_order: 4
 	<div class="gallery-item"> 
 		<img src="/assets/img/sox10_twist1.tif" alt="Beautiful Landscape">
 	<div class="description"> 
-	<h3>Multiplexed HCR stain</h3> 
+	<h2>Multiplexed HCR stain</h2> 
 	<p>Staining for Sox10 and Twist1</p> 
 	</div> 
 	</div>
@@ -22,7 +22,7 @@ nav_order: 4
 	<div class="gallery-item"> 
 	<img src="/assets/video/close up-2.gif" alt="City Skyline"> 
 	<div class="description"> 
-	<h3>Explant</h3> 
+	<h2>Explant</h2> 
 	<p>Cells are migrating.</p> 
 	</div> 
 	</div>
@@ -53,16 +53,18 @@ nav_order: 4
 
 .description {
     margin-top: 10px;
-    color: black;               /* always black text */
+    color: black !important;  /* force black text */
 }
 
 .description h3 {
     margin: 0 0 5px 0;
+    color: black !important;  /* force black heading */
 }
 
 .description p {
     margin: 0;
     font-size: 14px;
+    color: black !important;  /* force black paragraph */
 }
 
 </style>
