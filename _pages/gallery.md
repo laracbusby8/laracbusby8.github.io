@@ -1,11 +1,11 @@
---- 
+<!-- ---
 layout: default 
 permalink: /gallery/ 
 title: gallery 
 description: 
 nav: true 
 nav_order: 4 
---- 
+--- -->
 
 <div class="gallery"> 
 	
