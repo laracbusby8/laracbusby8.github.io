@@ -11,31 +11,19 @@ nav_order: 4
 
         <!-- Image Item -->
         <div class="gallery-item">
-            <img src="assets/img/sox10_twist1.tif" alt="Beautiful Landscape">
+            <img src="/assets/img/sox10_twist1.tif" alt="Beautiful Landscape">
             <div class="description">
                 <h3>Multiplexed HCR stain</h3>
                 <p>Staining for Sox10 and Twist1</p>
             </div>
         </div>
 
-        <!-- Video Item -->
-        <div class="gallery-item">
-            <video controls>
-                <source src="assets/video/Lara_Snail1_Crepidula_Timelapse.avi" type="video/avi">
-                Your browser does not support the video tag.
-            </video>
-            <div class="description">
-                <h3>Snail embryo</h3>
-                <p>Epiboly.</p>
-            </div>
-        </div>
-
         <!-- Image Item -->
         <div class="gallery-item">
-            <img src="images/photo2.jpg" alt="City Skyline">
+            <img src="/assets/video/close up-2.gif" alt="City Skyline">
             <div class="description">
-                <h3>City Lights</h3>
-                <p>Night skyline with glowing city lights.</p>
+                <h3>Explant</h3>
+                <p>Cells are migrating.</p>
             </div>
         </div>
 
