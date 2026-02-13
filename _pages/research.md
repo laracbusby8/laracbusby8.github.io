@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /research/
 title: research
-description: members of the lab or group
+description: 
 nav: true
 nav_order: 7
 
