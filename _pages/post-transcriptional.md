@@ -1,3 +1,3 @@
-<h2>Heading 2</h2>
+<h3>Heading 2</h3>
 
 The neural crest...
