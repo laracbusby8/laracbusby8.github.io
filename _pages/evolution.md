@@ -1,2 +1,2 @@
 <h3>Evolution of neural crest cell state transitions</h3>
-I am interested in how developmental mechanisms have evolved to give rise to a variety of craniofacial morphologies across the vertebrate phylum.
+I am interested in how developmental mechanisms have evolved to give rise to a variety of craniofacial morphologies across the vertebrate phylum. I am using a zoo of different model species, including the jawless sea lamprey, to compare gene expression in neural crest cells and their surrounding tissues and ask where the biggest gene expression divergence occurs. This will give us insight into whether NC-intrinsic or extrinsic changes can account for divergent craniofacial outcomes.
