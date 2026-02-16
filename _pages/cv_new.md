@@ -1,11 +1,11 @@
----
+<!-- ---
 layout: default 
 permalink: /cv/ 
 title: cv 
 description:
 nav: true 
 nav_order: 6
----
+--- -->
 
 <style>
 /* Use system color scheme */
