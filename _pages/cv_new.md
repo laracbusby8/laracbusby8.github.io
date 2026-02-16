@@ -57,7 +57,7 @@ h3 {
 
 /* Jobs */
 .job {
-    border-left: 3px solid color-mix(in srgb, CanvasText 25%, transparent);
+    border-left: 4px solid #b509ac;
     padding-left: 15px;
     margin-bottom: 18px;
 }
