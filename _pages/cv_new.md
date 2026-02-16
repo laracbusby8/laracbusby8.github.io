@@ -35,11 +35,12 @@ body {
 
 /* Box sections */
 .box {
-    background: var(--box-bg);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 25px;
-    margin-bottom: 20px;
+    background: Canvas;
+    border-radius: 16px;
+    padding: 28px;
+    margin-bottom: 24px;
+    border: 1px solid color-mix(in srgb, CanvasText 15%, transparent);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.05);
 }
 
 /* Header */
