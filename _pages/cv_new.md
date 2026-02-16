@@ -49,7 +49,7 @@ body {
 }
 
 /* Section titles */
-h3 {
+h4 {
     margin-top: 0;
     border-bottom: 1px solid var(--border);
     padding-bottom: 8px;
@@ -101,7 +101,7 @@ h3 {
 <div class="container">
 
     <div class="box">
-        <h3>Education and Employment</h3>
+        <h4>Education and Employment</h4>
 
         <div class="job">
             <span class="job-title">EMBO Postdoctoral Research Fellow – University of California, Berkeley</span>
@@ -136,7 +136,7 @@ h3 {
     </div>
 
     <div class="box">
-        <h3>Skills</h3>
+        <h4>Skills</h4>
         <div class="skills">
             <div class="skill">HTML</div>
             <div class="skill">CSS</div>
