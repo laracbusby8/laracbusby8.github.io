@@ -53,6 +53,15 @@ nav_order: 4
 	<p>Brightfield image at 7dpf. The embryo is wrapped around the large cylindrical yolk.</p> 
 	</div> 
 	</div>
+
+<!-- Image Item --> 
+	<div class="gallery-item"> 
+	<img src="/assets/img/SUM_memGFP_St16_CNC_Explant_3hr.czi-memGFP_St16_CNC_Explant_3hr1-1_gfp-ezgif.com-optimize.gif" alt="GIF of migrating frog neural crest cells"> 
+	<div class="description"> 
+	<h4><i>Xenopus laevis</i> neural crest explant</h4> 
+	<p>Neural crest cells from membrane-GFP transgenic migrating on fibronectin.</p> 
+	</div> 
+	</div>
 	
 </div>
 
