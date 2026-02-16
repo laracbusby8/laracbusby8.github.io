@@ -44,6 +44,15 @@ nav_order: 4
 	<p>Histones are labelled in magenta and microtubules are labelled in cyan.</p> 
 	</div> 
 	</div>
+
+<!-- Image Item --> 
+	<div class="gallery-item"> 
+	<img src="/assets/img/AstCal_salima_embryo17.jpg" alt="Brightfield image of early cichlid embryo"> 
+	<div class="description"> 
+	<h4><i>Astatotilapia calliptera</i> embryo</h4> 
+	<p>Brightfield image at 7dpf. The embryo is wrapped around the large cylindrical yolk.</p> 
+	</div> 
+	</div>
 	
 </div>
 
