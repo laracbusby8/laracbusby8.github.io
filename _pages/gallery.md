@@ -80,6 +80,15 @@ nav_order: 4
 	<p>Embryo injected with membrane GFP (cyan) and H2B-RFP (magenta) constructs and imaged for 24 hours.</p> 
 	</div> 
 	</div>
+
+	<!-- Image Item --> 
+	<div class="gallery-item"> 
+	<img src="/assets/img/SUM_e1_cranial_40X-01.czi (RGB)_triple_composite_w_DAPI.jpg" alt="Microscopy image of stained zebrafish embryo"> 
+	<div class="description"> 
+	<h5><i>Danio rerio</i> cranial region</h5> 
+	<p>24hpf embryo stained for <i>sox10</i> (green), <i>ets1</i> (yellow) and <i>twist1a</i> (magenta) transcripts.</p> 
+	</div> 
+	</div>
 	
 </div>
 
