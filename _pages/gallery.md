@@ -14,7 +14,7 @@ nav_order: 4
 		<img src="/assets/img/sox10_twist1.tif" alt="magenta and green microscopy image of a chicken embryo cranial region">
 	<div class="description"> 
 	<h4>Avian neural crest migrating</h4> 
-	<p>Multiplexed HCR staining for <i>Sox10</i> and <i>Twist1</i> at HH10. <i>Sox10</i> is expressed by migrating neural crest cells and <i>Twist1</i> is expressed by the underlying cranial mesoderm.</p> 
+	<p>Multiplexed HCR staining for <i>Sox10</i> and <i>Twist1</i> at HH10. <i>Sox10</i> is expressed by migrating neural crest cells and <i>Twist1</i> is expressed by the underlying cranial mesoderm. 🐥</p> 
 	</div> 
 	</div>
 
@@ -23,7 +23,7 @@ nav_order: 4
 	<img src="/assets/video/close up-2.gif" alt="GIF of migrating cells marked by membrane GFP"> 
 	<div class="description"> 
 	<h4>Somite progenitor explant migrating</h4> 
-	<p>Cells are mosaically marked by electroporation of a membrane GFP construct.</p> 
+	<p>Cells are mosaically marked by electroporation of a membrane GFP construct. 🐥</p> 
 	</div> 
 	</div>
 </div>
