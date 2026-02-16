@@ -27,6 +27,15 @@ nav_order: 4
 	</div> 
 	</div>
 
+	<!-- Image Item --> 
+	<div class="gallery-item"> 
+	<img src="/assets/img/publication_preview/develop_147_9_coverfig.png" alt="Duplicated embryonic avian wing"> 
+	<div class="description"> 
+	<h4>Duplicated digit and feather patterns</h4> 
+	<p>Wing resulting from ZPA transplant to the anterior margin of the limb bud. Both the digit pattern and the feather pattern are perfectly duplicated in the AP axis.</p> 
+	</div> 
+	</div>
+
 <!-- Image Item --> 
 	<div class="gallery-item"> 
 	<img src="/assets/img/SBW377-1-ezgif.com-optimize.gif" alt="GIF of early C. elegans embryo"> 
