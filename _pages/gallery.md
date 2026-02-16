@@ -71,6 +71,15 @@ nav_order: 4
 	<p>Somite progenitor cells were transplanted from a GFP transgenic embryo into a wildtype embryo. The image shows nuclei in white and transplanted tissue in green - cells have incorporated into the medial somite.</p> 
 	</div> 
 	</div>
+
+	<!-- Image Item --> 
+	<div class="gallery-item"> 
+	<img src="/assets/img/Lara_Snail1_Crepidula_Timelapse-ezgif.com-optimize-2.gif" alt="GIF of snail epiboly with membranes and histones marked"> 
+	<div class="description"> 
+	<h5><i>Crepidula fornicata</i> epiboly</h5> 
+	<p>Embryo injected with membrane GFP (cyan) and H2B-RFP (magenta) constructs and imaged for 24 hours.</p> 
+	</div> 
+	</div>
 	
 </div>
 
