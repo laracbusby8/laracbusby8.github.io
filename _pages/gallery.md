@@ -13,7 +13,7 @@ nav_order: 4
 	<div class="gallery-item"> 
 		<img src="/assets/img/sox10_twist1.tif" alt="magenta and green microscopy image of a chicken embryo cranial region">
 	<div class="description"> 
-	<h4>Avian neural crest migrating</h4> 
+	<h5>Avian neural crest migrating</h5> 
 	<p>Multiplexed HCR staining for <i>Sox10</i> and <i>Twist1</i> at HH10. <i>Sox10</i> is expressed by migrating neural crest cells and <i>Twist1</i> is expressed by the underlying cranial mesoderm.</p> 
 	</div> 
 	</div>
@@ -22,7 +22,7 @@ nav_order: 4
 	<div class="gallery-item"> 
 	<img src="/assets/video/close up-2.gif" alt="GIF of migrating cells marked by membrane GFP"> 
 	<div class="description"> 
-	<h4>Somite progenitor explant migrating</h4> 
+	<h5>Somite progenitor explant migrating</h5> 
 	<p>Cells are mosaically marked by electroporation of a membrane GFP construct.</p> 
 	</div> 
 	</div>
@@ -31,7 +31,7 @@ nav_order: 4
 	<div class="gallery-item"> 
 	<img src="/assets/img/publication_preview/develop_147_9_coverfig.png" alt="Duplicated embryonic avian wing"> 
 	<div class="description"> 
-	<h4>Duplicated digit and feather patterns</h4> 
+	<h5>Duplicated digit and feather patterns</h5> 
 	<p>Wing resulting from ZPA transplant to the anterior margin of the limb bud. Both the digit pattern and the feather pattern are perfectly duplicated in the AP axis.</p> 
 	</div> 
 	</div>
@@ -40,7 +40,7 @@ nav_order: 4
 	<div class="gallery-item"> 
 	<img src="/assets/img/SBW377-1-ezgif.com-optimize.gif" alt="GIF of early C. elegans embryo"> 
 	<div class="description"> 
-	<h4><i>C. elegans</i> early cell divisions</h4> 
+	<h5><i>C. elegans</i> early cell divisions</h5> 
 	<p>Histones are labelled in magenta and microtubules are labelled in cyan.</p> 
 	</div> 
 	</div>
@@ -49,7 +49,7 @@ nav_order: 4
 	<div class="gallery-item"> 
 	<img src="/assets/img/AstCal_salima_embryo17.jpg" alt="Brightfield image of early cichlid embryo"> 
 	<div class="description"> 
-	<h4><i>Astatotilapia calliptera</i> embryo</h4> 
+	<h5><i>Astatotilapia calliptera</i> embryo</h5> 
 	<p>Brightfield image at 7dpf. The embryo is wrapped around the large cylindrical yolk.</p> 
 	</div> 
 	</div>
@@ -58,7 +58,7 @@ nav_order: 4
 	<div class="gallery-item"> 
 	<img src="/assets/img/SUM_memGFP_St16_CNC_Explant_3hr.czi-memGFP_St16_CNC_Explant_3hr1-1_gfp-ezgif.com-optimize.gif" alt="GIF of migrating frog neural crest cells"> 
 	<div class="description"> 
-	<h4><i>Xenopus laevis</i> neural crest explant</h4> 
+	<h5><i>Xenopus laevis</i> neural crest explant</h5> 
 	<p>Neural crest cells from membrane-GFP transgenic migrating on fibronectin.</p> 
 	</div> 
 	</div>
@@ -93,7 +93,7 @@ nav_order: 4
     color: black !important;  /* force black text */
 }
 
-.description h4 {
+.description h5 {
     margin: 0 0 5px 0;
     color: black !important;  /* force black heading */
 }
