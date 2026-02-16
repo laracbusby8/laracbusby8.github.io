@@ -57,7 +57,9 @@ h2 {
 
 /* Jobs */
 .job {
-    margin-bottom: 15px;
+    border-left: 3px solid color-mix(in srgb, CanvasText 25%, transparent);
+    padding-left: 15px;
+    margin-bottom: 18px;
 }
 
 .job-title {
