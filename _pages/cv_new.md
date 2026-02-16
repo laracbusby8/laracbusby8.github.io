@@ -104,8 +104,32 @@ h3 {
         <h3>Education and Employment</h3>
 
         <div class="job">
-            <span class="job-title">Job Title – Company</span>
-            <span class="date">2022 – Present</span>
+            <span class="job-title">Postdoctoral Research Fellow – University of California, Berkeley</span>
+            <span class="date">August 2023 – Present</span>
+            <p>Describe achievements and responsibilities.</p>
+        </div>
+
+        <div class="job">
+            <span class="job-title">Postdoctoral Researcher – University of Cambridge</span>
+            <span class="date">April 2023 – July 2023</span>
+            <p>Describe achievements and responsibilities.</p>
+        </div>
+
+        <div class="job">
+            <span class="job-title">PhD Biological Sciences (BBSRC DTP) – University of Cambridge</span>
+            <span class="date">October 2018 – March 2023</span>
+            <p>Describe achievements and responsibilities.</p>
+        </div>
+
+        <div class="job">
+            <span class="job-title">Research Assistant – University of Sheffield</span>
+            <span class="date">October 2017 – September 2018</span>
+            <p>Describe achievements and responsibilities.</p>
+        </div>
+
+        <div class="job">
+            <span class="job-title">B.A. Natural Sciences (Genetics) – University of Cambridge</span>
+            <span class="date">October 2014 – June 2017</span>
             <p>Describe achievements and responsibilities.</p>
         </div>
 
