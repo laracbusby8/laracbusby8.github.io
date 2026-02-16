@@ -63,7 +63,7 @@ h3 {
 }
 
 .job-title {
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .date {
@@ -104,7 +104,7 @@ h3 {
         <h3>Education and Employment</h3>
 
         <div class="job">
-            <span class="job-title">Postdoctoral Research Fellow – University of California, Berkeley</span>
+            <span class="job-title">EMBO Postdoctoral Research Fellow – University of California, Berkeley</span>
             <span class="date">August 2023 – Present</span>
             <p>Describe achievements and responsibilities.</p>
         </div>
