@@ -62,6 +62,15 @@ nav_order: 4
 	<p>Neural crest cells from membrane-GFP transgenic migrating on fibronectin.</p> 
 	</div> 
 	</div>
+
+<!-- Image Item --> 
+	<div class="gallery-item"> 
+	<img src="/assets/img/publication_preview/somite zproj RGB.jpg" alt="Microscopy image of somites with grafted tissue in green"> 
+	<div class="description"> 
+	<h5>Avian somite progenitor transplant</h5> 
+	<p>Somite progenitor cells were transplanted from a GFP transgenic embryo into a wildtype embryo. The image shows nuclei in white and transplanted tissue in green - cells have incorporated into the medial somite.</p> 
+	</div> 
+	</div>
 	
 </div>
 
