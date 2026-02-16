@@ -92,26 +92,13 @@ h2 {
     }
 }
 </style>
-</head>
 
 <body>
 
 <div class="container">
 
-    <div class="box header">
-        <h1>Your Name</h1>
-        <p>Email | Phone | Location | LinkedIn</p>
-    </div>
-
     <div class="box">
-        <h2>Professional Summary</h2>
-        <p>
-            Short paragraph describing your professional background and strengths.
-        </p>
-    </div>
-
-    <div class="box">
-        <h2>Experience</h2>
+        <h2>Education and Employment</h2>
 
         <div class="job">
             <span class="job-title">Job Title – Company</span>
@@ -128,11 +115,6 @@ h2 {
             <div class="skill">CSS</div>
             <div class="skill">JavaScript</div>
         </div>
-    </div>
-
-    <div class="box">
-        <h2>Education</h2>
-        <p><strong>Degree</strong> – University (Year–Year)</p>
     </div>
 
 </div>
