@@ -106,7 +106,13 @@ h4 {
         <div class="job">
             <span class="job-title">EMBO Postdoctoral Research Fellow – University of California, Berkeley</span>
             <span class="date">August 2023 – Present</span>
-            <p>Describe achievements and responsibilities.</p>
+            <p><ul>
+              <li>My current research focuses on understanding how gene regulatory networks driving ectomesenchymal differentiation have evolved across the vertebrate phylum, with a particular focus on the <i>Twist1</i> gene.</li>
+              <li>Experimental techniques: molecular cloning, enhancer reporter assays, single cell RNA-sequencing and multiomic
+profiling, interspecies scRNA-seq integration, lamprey transgenesis, cryo and paraffin sectioning, CRISPR gene editing
+in chicken, lamprey and frog, in situ hybridization, chicken in ovo electroporation.</li>
+            </ul>
+        </p>
         </div>
 
         <div class="job">
