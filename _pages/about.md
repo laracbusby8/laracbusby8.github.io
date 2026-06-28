@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: photo.jpg
+  image: Lara Busby 1.jpg
   image_circular: true # crops the image to make it circular
  
 
