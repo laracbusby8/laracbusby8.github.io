@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-09-02'
 papers:
   LgY148AAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: 'Quantitative experimental embryology: a modern classical approach'
     year: '2022'
   LgY148AAAAAJ:9yKSN-GCB0IC:
-    citations: 54
+    citations: 55
     title: 'Establishment of the vertebrate body plan: Rethinking gastrulation through stem cell models of early embryogenesis'
     year: '2021'
   LgY148AAAAAJ:IjCSPb-OGe4C:
@@ -14,7 +14,7 @@ papers:
     title: Hybridization chain reaction for quantitative and multiplex imaging of gene expression in amphioxus embryos and adult tissues
     year: '2020'
   LgY148AAAAAJ:Tyk-4Ss8FVUC:
-    citations: 20
+    citations: 21
     title: Sonic hedgehog specifies flight feather positional information in avian wings
     year: '2020'
   LgY148AAAAAJ:UeHWp8X0CEIC:
@@ -43,8 +43,8 @@ papers:
     year: '2019'
   LgY148AAAAAJ:u-x6o8ySG0sC:
     citations: 0
-    title: Ectomesenchymal identity emerges via relief of Twist1 transcript destabilization
-    year: '2025'
+    title: Ectomesenchymal identity emerges via relief of Twist1 transcript destabilisation
+    year: '2026'
   LgY148AAAAAJ:u5HHmVD_uO8C:
     citations: 40
     title: Tissue tectonics and the multi-scale regulation of developmental timing
